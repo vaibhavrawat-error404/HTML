@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORTFOLIO</title>
+</head>
+<body>
+    <header>
+    <PRE>
+                                    <a href="https://mail.google.com/" taget="main"><img src="https://imgs.search.brave.com/QPURvaMS_9VcTMvz6DQJInCtUqB9nkffML_kdg6DNpU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDgv/MTE2LzMwMy9zbWFs/bC9nbWFpbC1lbWFp/bC1sb2dvLWljb24t/ZnJlZS1wbmcucG5n" alt="email" height="100"/></a>              <A href="https://www.instagram.com/?hl=en" target="main"><img src="https://imgs.search.brave.com/OJo1H7c5TSL9w3ApJ8ZwCFqCPlz4KCecdfKTQT9EwPE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTQv/NjYwLzk4Mi9zbWFs/bC9pbnN0YWdyYW0t/bG9nby13aXRoLWJs/YWNrLW91dGxpbmUt/ZnJlZS1wbmcucG5n" alt="alt insta" height="100"/>></A>              <A href="https://www.facebook.com/" target="main"><img src="https://imgs.search.brave.com/xqvEfUVNfu3DA-6HMrBEnUeOfTk8_Tel4tMGG1F__5Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ZlLzMx/L2Y3L2ZlMzFmNzFj/ODQ2YmE0ZDIyZWU5/ZjA5Y2NkNWM2ZDA4/LmpwZw" alt="facebook" height="100"/></A>
+    </PRE>
+    </header>
+    <hr>
+    <main>
+            <section>
+                <pre>
+                <p>I am JOHNSNOW.</p>
+                <p>I am from WINTERFELL.</p>
+                <p>I'm currently commander of nights watch.</p>
+                <p>i have done archery, swordfight and many more cool stuff with my friends and cousins.</p>
+                </pre>
+            </section>
+            <section>
+                <a href="" target="main"><img src="https://imgs.search.brave.com/54SaLFArn9-8DUPD2etrqeZ0pM67xctGLhuDYvmQMlU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/My8zMC9Kb25fU25v/d19TZWFzb25fOC5w/bmcvNTEycHgtSm9u/X1Nub3dfU2Vhc29u/XzgucG5n" alt="my pic"/></a>
+            </section>
+            <hr>
+            <footer>
+                <pre>
+                    <a href="/1stpage.html">NEXT PAGE> ></a>
+                </pre>
+            </footer>
+    </main>
+
+   
+</body>
+</html>
